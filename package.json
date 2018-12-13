@@ -19,5 +19,11 @@
   "bugs": {
     "url": "https://github.com/evan-k-wright/RESTful-todoListApi/issues"
   },
-  "homepage": "https://github.com/evan-k-wright/RESTful-todoListApi#readme"
+  "homepage": "https://github.com/evan-k-wright/RESTful-todoListApi#readme",
+  "devDependencies": {
+    "nodemon": "^1.18.8"
+  },
+  "dependencies": {
+    "express": "^4.16.4"
+  }
 }
