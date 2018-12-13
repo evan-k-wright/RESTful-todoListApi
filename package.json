@@ -1,0 +1,23 @@
+{
+  "name": "todolistapi",
+  "version": "1.0.0",
+  "description": "RESTful todoListApi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \\error: no test specified\\ && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evan-k-wright/RESTful-todoListApi.git"
+  },
+  "keywords": [
+    "RESTful",
+    "API"
+  ],
+  "author": "evan wright",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/evan-k-wright/RESTful-todoListApi/issues"
+  },
+  "homepage": "https://github.com/evan-k-wright/RESTful-todoListApi#readme"
+}
